@@ -1,0 +1,88 @@
+                .SUBSCRIBE-button {
+                background-color: rgb(200, 18, 18);
+                color: white;
+                border: none;  
+                height: 36px;  
+                width: 113px;
+                font-size: 14px;
+                border-radius: 2px;
+                cursor: pointer;
+                margin-right: 8px;
+                transition: opacity 0.15s;
+                vertical-align: top;
+                }
+        
+            .SUBSCRIBE-button:hover {
+                opacity: 0.7;
+                }
+            
+            .SUBSCRIBE-button:active {
+                opacity: 0.4;
+                }
+        
+        
+        
+            .JOIN-button {
+            background-color: rgb(255, 255, 255);
+            border-color: rgb(6, 95, 212);
+            border-style: solid;
+            border-width: 1px;
+            border-radius: 2px;
+            color: rgb(6, 95, 212);
+            height: 36px;
+            width: 64px;
+            font-size: 14px;
+            cursor: pointer;
+            margin-right: 8px;
+            transition: background-color 1s,
+                color 1s;
+            vertical-align: top;
+            
+            }
+        
+            .JOIN-button:hover {
+                background-color: rgb(6, 95, 212);
+                color: white;
+                }
+            
+            .JOIN-button:active {
+                opacity: 0.7;
+                }
+        
+        
+        
+            .TWEET-button {
+            background-color: rgb(29, 155, 240);
+            border: none;
+            color: white;
+            height: 36px;
+            width: 75px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+            font-size: 15px;
+            cursor: pointer;
+            transition: box-shadow 0.15s;
+            vertical-align: top;
+            }
+        
+            .TWEET-button:hover {
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+                }
+            
+            .TWEET-button:active {
+                opacity: 0.7;
+                }
+        
+            .UBER-button {
+            background-color: rgb(0, 0, 0);
+            color: white;
+            border: none;
+            height: 36px;
+            width: 113px;
+            font-size: 12px;
+            cursor: pointer;
+            margin-right: 8px;
+            margin-left: 8px;
+            vertical-align: top;
+            }
